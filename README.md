@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Jadson Henrique S. Almeida
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Jadson Henrique S. Almeida, sou estudante de Engenharia da Computação na FURG desde 2022, com previsão de conclusão em 2027. Tenho um grande interesse por novas tecnologias e estou sempre buscando aprender mais sobre o mundo da computação. Sei programar em JavaScript e gosto de explorar diferentes linguagens e ferramentas para desenvolver soluções inovadoras. Além disso, tenho interesse em sistemas embarcados e inteligência artificial, áreas que me fascinam e nas quais pretendo me aprofundar ainda mais.
 
